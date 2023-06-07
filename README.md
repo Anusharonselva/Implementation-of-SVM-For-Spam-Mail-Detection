@@ -67,7 +67,6 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
 
 ![Screenshot (97)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/327d8488-f0cd-487e-9823-5134452a5ce6)
 
