@@ -68,15 +68,29 @@ accuracy
 
 ## Output:
 
-![Screenshot (97)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/327d8488-f0cd-487e-9823-5134452a5ce6)
+Result output:
 
-![Screenshot (98)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/7ae4ea3d-88b3-4087-8237-0cdda66d1f5a)
+![Screenshot (313)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/aca6e2c0-87ac-4ace-a1bb-2511d1bc95e3)
 
-![Screenshot (98) 1](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/1a9a906e-33fe-432a-af40-567fac921b03)
+data.head():
 
-![Screenshot (99)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/4d91a9e9-105c-416c-a8d3-73e465c82718)
+![Screenshot (313) 1](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/a3845035-e759-439c-b567-0c31ae8a2bd5)
 
-![99 1](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/7a9466e9-bdb9-4e23-bcb2-0df08b741bb8)
+data.info():
+
+![Screenshot (314)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/b4e5e687-253d-4076-82c7-4869ce4ca5e8)
+
+data.isnull().sum():
+
+![Screenshot (314) 1](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/d8295300-2ea9-4e48-bcbf-feefb15687b2)
+
+Y_Prediction value:
+
+![Screenshot (315)](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/cdd1fe33-a3f5-4c64-a5a9-01939544eda5)
+
+Accuracy value:
+
+![Screenshot (315) 1](https://github.com/Anusharonselva/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405600/68d25a1b-8fed-480c-ae79-4957a82f1b2f)
 
 
 ## Result:
